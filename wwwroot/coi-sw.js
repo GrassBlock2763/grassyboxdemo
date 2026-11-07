@@ -1,4 +1,3 @@
-/* Manifest version: NtSoFwwr */
 // Service worker that adds the cross-origin isolation headers a static host
 // cannot send.
 //
